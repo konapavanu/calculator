@@ -17,6 +17,9 @@ This project demonstrates basic arithmetic operations with a clean UI, without u
 ## 🚀 Demo
 
 <img width="958" height="930" alt="Image" src="https://github.com/user-attachments/assets/8399360d-cbc6-47f3-9f15-53cbb6dec286" />
+
+
+Run this server: https://do-calculate.vercel.app/
 ---
 
 ## 🛠️ Technologies Used
@@ -39,4 +42,4 @@ calculator/
 1. Clone this repository:
    ```bash
    git clone https://github.com/konapavanu/calculator.git
-   https://do-calculate.vercel.app/
+
