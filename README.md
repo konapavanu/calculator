@@ -39,3 +39,4 @@ calculator/
 1. Clone this repository:
    ```bash
    git clone https://github.com/konapavanu/calculator.git
+   https://do-calculate.vercel.app/
